@@ -1,0 +1,61 @@
+ProdutoID,Produto,Categoria,PrecoUnitario,Custo,QtdEstoque
+05112d7f-12ec-4f24-8bab-4c1b904aa134,Teclado Mecânico,Acessórios Informática,3786.58,101.5,462
+79f73374-e92a-409b-92f1-8f28a61bdc7d,Mouse Sem Fio,Acessórios Informática,246.74,2674.12,275
+62d47bff-a510-47b4-924d-4a86efed0e52,Mouse Gamer,Acessórios Informática,4005.01,39.86,426
+63032bd4-9db5-44b5-af84-22cc484fda28,Headset Gamer,Acessórios Informática,4120.87,1121.23,144
+3cd7e0ea-bf81-4a17-a905-8f29731da6ec,Hub USB,Acessórios Informática,4711.94,1722.07,374
+4002c5eb-9cd3-4931-bd95-7e47aed14cec,Cabo HDMI,Acessórios Informática,2251.88,396.01,232
+a2fe9cb4-fcec-4791-bae9-df3f585b8128,Cadeira Gamer,Acessórios Informática,1509.96,346.65,361
+e6092042-eb5f-4944-baa8-34197479d994,Monitor Suporte,Acessórios Informática,4599.96,377.42,455
+e123433f-8955-47ec-b447-f8a127340be8,Base para Notebook,Acessórios Informática,2189.72,803.91,442
+496fe308-24f7-4239-b94d-91565c31d125,Adaptador USB,Acessórios Informática,727.25,849.79,342
+f689c4c2-2ca2-4887-bb21-68c4a3188a65,Smartwatch,Tecnologia,626.49,1074.09,40
+41d893a5-ffc7-4ba2-a371-9357f7a58f8d,Assistente Virtual,Tecnologia,3734.17,682.88,38
+bd71017f-5e3a-4dad-a90a-8303e1c6a7c2,Carregador Rápido,Tecnologia,1669.22,1531.04,141
+4cc378c3-ce32-40af-ae86-49f1055c22ad,Tablet,Tecnologia,2294.65,2211.85,344
+690e1a7e-75be-4ba7-8ae4-e09624dc1ee5,HD Externo,Tecnologia,3896.38,2126.29,161
+da07f08e-8a9f-45a1-a13a-e6f4b5ef818b,SSD,Tecnologia,4466.75,134.3,51
+2001965b-66f8-4b87-bccc-1a7d3a1bba9c,Power Bank,Tecnologia,4665.22,2386.71,162
+35461a1c-5a5a-4dac-a062-4c48d7131c2e,Projetor Portátil,Tecnologia,992.47,1683.35,428
+e23509a8-6bcf-4fa4-a7e2-020ef11f1e97,Drone,Tecnologia,4393.99,126.2,324
+73cab4e3-bbc3-453b-b5e8-abfe6af01106,Echo Dot,Tecnologia,3155.06,752.82,300
+76a90f78-6370-4da9-b3ce-caaf71a2f6c1,Console PS5,Games,1912.23,2830.62,344
+aa55e9af-5375-44b0-967a-25f85d12490e,Console Xbox Series X,Games,1018.61,1420.94,248
+87a9efaf-b92a-41b7-a213-cdad661d3354,Joystick para PC,Games,4078.65,2206.01,144
+b66c4a03-378a-4526-befa-528c34b6d9da,Controle Xbox,Games,702.37,1911.62,45
+f2b074a3-31d1-4ea8-9181-c8a230e31645,Controle DualSense,Games,4756.62,2574.33,383
+c8bc7784-a8c9-4656-bab3-d9a3dfa4a6da,Headset para Xbox,Games,1110.24,1314.27,251
+769fce1a-e67d-4f00-9d08-c2549e6eac9c,Volante para Simulação,Games,2810.8,641.47,91
+cac5a4c6-c393-4806-9cc8-c8018c573243,Cadeira Gamer RGB,Games,242.12,2070.19,314
+4e90ee87-a4dd-4fe1-9ff3-fbbf6880534f,Teclado para Consoles,Games,1932.44,1760.02,326
+78612769-242e-4cff-a490-7a6336a8d53d,Dock para Switch,Games,1776.08,1600.77,488
+73cb3b3f-a6f9-4864-8af6-d2681bd07f9b,TV 4K,Eletro-Eletrônicos,941.32,914.3,118
+f4aae84a-d538-4419-a798-d9bf4ce1ca16,Home Theater,Eletro-Eletrônicos,4381.44,2010.57,250
+69808e3c-9fa3-4e4b-9ebf-96d3c64ab8bf,Soundbar,Eletro-Eletrônicos,3993.89,1188.79,182
+56726735-3798-4c80-b30c-84610d06d891,Receptor de TV,Eletro-Eletrônicos,2739.9,900.34,112
+a8deeb1c-281e-4259-a3d2-1a338d3bc1df,Rádio Portátil,Eletro-Eletrônicos,606.22,2645.07,386
+6e896265-847a-4fa5-afe7-39dd6260dcbe,Caixa de Som Bluetooth,Eletro-Eletrônicos,3831.49,1270.39,228
+061a1396-7167-48ee-b175-82082e292386,Smart TV,Eletro-Eletrônicos,1660.72,1994.01,59
+9140a95d-62ce-4959-b4da-1f50b1a7fe09,Controle Remoto Universal,Eletro-Eletrônicos,922.16,2869.82,338
+fbcf57d7-45f8-4c5d-ac1e-86bbaac016bd,Antena Digital,Eletro-Eletrônicos,612.0,2096.97,360
+c4ecea32-9038-4f81-ae3d-c742bef8004b,Carregador Universal,Eletro-Eletrônicos,683.89,2648.87,430
+9337bb34-66e1-408e-a428-2ec427e6287b,iPhone 14,Celulares,4033.37,1477.74,210
+26932d95-32a3-48fb-8d03-a402c827e7c0,Samsung Galaxy S23,Celulares,3451.75,106.31,137
+3ee61872-77f4-47f9-9105-88a9694a48b3,Moto G Power,Celulares,2562.06,2671.64,400
+c33b14ed-216c-4ed0-bd0c-1656de373877,Xiaomi Redmi Note 12,Celulares,2074.58,1695.53,165
+9c406cbe-50f3-40af-bc97-6337ee668fd2,Realme Narzo,Celulares,1344.95,966.5,200
+87d49f49-9cc1-4301-836d-b2eceeda69bc,OnePlus Nord,Celulares,4054.7,1287.09,133
+09098704-e03c-419a-a0ca-381cbc3dc68a,Fone Bluetooth,Celulares,4566.23,819.59,372
+10bb5ed3-c976-4bdf-98d9-39ebad1abfd5,Carregador Wireless,Celulares,1133.79,1916.07,23
+eb9060cb-0238-4c49-857e-ccfa15f3b747,Capa Protetora,Celulares,1577.13,1241.24,293
+54ddbff4-0d81-439d-9e95-2d1ddcbc5e3f,Película de Vidro,Celulares,4384.33,1617.32,399
+ee7ae3bb-5034-4715-9706-c3cdda440dee,Geladeira Frost Free,Eletro-Domésticos,3145.17,2844.68,314
+be5b8a92-33f8-457c-9b50-73c7e6dc9c76,Máquina de Lavar,Eletro-Domésticos,3073.22,405.06,276
+4ebc5f60-3687-41e1-b53c-a48b268de9f4,Forno Microondas,Eletro-Domésticos,148.6,2172.24,410
+9f8c1c81-5ce9-43d3-90e6-e383d736b50e,Fogão 4 Bocas,Eletro-Domésticos,1926.98,2345.69,170
+e78e4df0-955c-41d2-90c4-9c2be8c451fc,Aspirador de Pó,Eletro-Domésticos,4565.53,2305.19,283
+56afd9ce-799f-42c0-b255-7e4ed4087cd1,Liquidificador,Eletro-Domésticos,364.15,166.66,107
+4da12b02-4a2c-4830-acdb-1625b41f5721,Airfryer,Eletro-Domésticos,1842.38,611.35,80
+28e9772b-8fd7-4ced-8d65-e32819fbded2,Cafeteira,Eletro-Domésticos,4198.84,1198.67,367
+29cb31b1-26ea-445e-a16c-77ace69bf25c,Ventilador,Eletro-Domésticos,1185.21,2407.83,466
+e904ee42-8845-46f5-9e52-1d486a499f0b,Purificador de Água,Eletro-Domésticos,1900.71,1251.92,283
