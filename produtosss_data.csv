@@ -1,0 +1,61 @@
+ProductID,Produto,Categoria,PrecoUnitario,Custo,QtdEstoque
+P001,Teclado Mecânico,Acessórios Informática,173.8,839.59,114
+P002,Mouse Sem Fio,Acessórios Informática,740.71,325.44,379
+P003,Mouse Gamer,Acessórios Informática,4466.29,279.08,216
+P004,Headset Gamer,Acessórios Informática,207.32,299.21,119
+P005,Hub USB,Acessórios Informática,2551.51,99.08,101
+P006,Cabo HDMI,Acessórios Informática,3594.3,2109.95,214
+P007,Cadeira Gamer,Acessórios Informática,1141.18,1776.01,414
+P008,Monitor Suporte,Acessórios Informática,4353.04,2281.25,81
+P009,Base para Notebook,Acessórios Informática,3505.79,1033.95,79
+P010,Adaptador USB,Acessórios Informática,1115.8,2295.21,52
+P011,Smartwatch,Tecnologia,509.09,308.21,433
+P012,Assistente Virtual,Tecnologia,1752.58,808.27,22
+P013,Carregador Rápido,Tecnologia,3662.17,1617.96,498
+P014,Tablet,Tecnologia,4615.36,254.82,150
+P015,HD Externo,Tecnologia,4155.55,1863.19,441
+P016,SSD,Tecnologia,1840.09,593.02,35
+P017,Power Bank,Tecnologia,276.83,699.14,148
+P018,Projetor Portátil,Tecnologia,4926.85,2568.85,443
+P019,Drone,Tecnologia,549.96,848.36,325
+P020,Echo Dot,Tecnologia,4178.85,504.71,181
+P021,Console PS5,Games,1087.06,815.59,479
+P022,Console Xbox Series X,Games,3433.56,232.78,325
+P023,Joystick para PC,Games,897.14,2192.8,83
+P024,Controle Xbox,Games,2338.19,824.44,473
+P025,Controle DualSense,Games,3218.0,1679.71,350
+P026,Headset para Xbox,Games,1655.2,2309.57,28
+P027,Volante para Simulação,Games,1183.79,115.66,161
+P028,Cadeira Gamer RGB,Games,2035.77,217.24,467
+P029,Teclado para Consoles,Games,4717.4,2631.58,161
+P030,Dock para Switch,Games,1102.5,1507.71,452
+P031,TV 4K,Eletro-Eletrônicos,4577.01,1387.38,135
+P032,Home Theater,Eletro-Eletrônicos,741.17,2240.07,275
+P033,Soundbar,Eletro-Eletrônicos,1350.57,1762.07,459
+P034,Receptor de TV,Eletro-Eletrônicos,2938.49,1098.75,70
+P035,Rádio Portátil,Eletro-Eletrônicos,2572.16,290.91,24
+P036,Caixa de Som Bluetooth,Eletro-Eletrônicos,4312.46,475.47,81
+P037,Smart TV,Eletro-Eletrônicos,3970.79,1278.04,32
+P038,Controle Remoto Universal,Eletro-Eletrônicos,1954.6,1795.75,239
+P039,Antena Digital,Eletro-Eletrônicos,2669.12,2913.81,440
+P040,Carregador Universal,Eletro-Eletrônicos,4715.03,2047.24,58
+P041,iPhone 14,Celulares,3424.47,1620.17,136
+P042,Samsung Galaxy S23,Celulares,3854.56,1033.72,150
+P043,Moto G Power,Celulares,2202.09,1372.1,488
+P044,Xiaomi Redmi Note 12,Celulares,3624.36,2164.65,497
+P045,Realme Narzo,Celulares,2527.9,552.38,467
+P046,OnePlus Nord,Celulares,576.73,1883.39,430
+P047,Fone Bluetooth,Celulares,3212.8,1834.73,78
+P048,Carregador Wireless,Celulares,1900.87,501.42,488
+P049,Capa Protetora,Celulares,3904.2,1600.45,0
+P050,Película de Vidro,Celulares,3014.78,1476.05,57
+P051,Geladeira Frost Free,Eletro-Domésticos,4649.04,2638.59,425
+P052,Máquina de Lavar,Eletro-Domésticos,4043.54,733.57,123
+P053,Forno Microondas,Eletro-Domésticos,4396.15,2841.91,43
+P054,Fogão 4 Bocas,Eletro-Domésticos,3672.94,2451.75,500
+P055,Aspirador de Pó,Eletro-Domésticos,3814.98,2302.19,65
+P056,Liquidificador,Eletro-Domésticos,3315.77,2841.61,84
+P057,Airfryer,Eletro-Domésticos,1362.03,2619.85,216
+P058,Cafeteira,Eletro-Domésticos,4823.6,2788.16,386
+P059,Ventilador,Eletro-Domésticos,3663.16,619.43,159
+P060,Purificador de Água,Eletro-Domésticos,2025.01,2021.63,191
