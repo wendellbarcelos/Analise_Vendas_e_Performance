@@ -1,0 +1,501 @@
+ClienteID,Nome,Idade,Genero,Segmento,Localizacao,Estado
+C001,Brenda Alves,25,Feminino,Alta Frequência,Mossoró,Rio Grande do Norte
+C002,Isabelly Câmara,19,Feminino,Recorrente,Parintins,Amazonas
+C003,Cauã Rocha,22,Masculino,Alta Frequência,Maceió,Alagoas
+C004,Aurora Pastor,39,Feminino,Recorrente,Manaus,Amazonas
+C005,Ana Beatriz Alves,60,Feminino,Alta Frequência,Arapiraca,Alagoas
+C006,Henrique da Conceição,64,Masculino,Alta Frequência,Goiânia,Goiás
+C007,Amanda Novais,69,Feminino,Alta Frequência,Caxias do Sul,Rio Grande do Sul
+C008,Yago Leão,60,Masculino,Alta Receita,Belém,Pará
+C009,Pietro Pastor,47,Masculino,Recorrente,Parnaíba,Piauí
+C010,André Teixeira,21,Masculino,Recorrente,Vitória,Espírito Santo
+C011,Otávio Fernandes,33,Masculino,Alta Frequência,São Luís,Maranhão
+C012,Eduardo Cunha,26,Masculino,Alta Frequência,Anápolis,Goiás
+C013,Caleb Garcia,33,Masculino,Alta Receita,Feira de Santana,Bahia
+C014,Luiz Henrique Ferreira,21,Masculino,Alta Frequência,Porto Alegre,Rio Grande do Sul
+C015,Julia Aparecida,28,Feminino,Alta Receita,Curitiba,Paraná
+C016,Zoe Campos,43,Feminino,Alta Frequência,Aracaju,Sergipe
+C017,Anna Liz Novaes,42,Feminino,Alta Receita,Recife,Pernambuco
+C018,Luiz Miguel Oliveira,62,Masculino,Alta Frequência,Sobral,Ceará
+C019,Bernardo Aparecida,31,Masculino,Recorrente,Araguaína,Tocantins
+C020,Heloísa Vargas,65,Feminino,Alta Frequência,São Paulo,São Paulo
+C021,Bruno da Conceição,50,Masculino,Alta Frequência,Santana,Amapá
+C022,Mateus da Mota,29,Masculino,Recorrente,Brasília,Distrito Federal
+C023,Maria Clara Castro,43,Feminino,Recorrente,Manaus,Amazonas
+C024,Gustavo Henrique Rios,57,Masculino,Alta Receita,Maceió,Alagoas
+C025,Brayan Pereira,34,Masculino,Recorrente,Uberlândia,Minas Gerais
+C026,Eloá Nascimento,33,Feminino,Alta Receita,Niterói,Rio de Janeiro
+C027,Elisa Martins,47,Feminino,Alta Frequência,Ji-Paraná,Rondônia
+C028,Júlia Porto,57,Feminino,Alta Frequência,Cruzeiro do Sul,Acre
+C029,Hellena Rodrigues,50,Feminino,Alta Frequência,Goiânia,Goiás
+C030,Ian Andrade,33,Masculino,Alta Receita,João Pessoa,Paraíba
+C031,João Felipe Azevedo,52,Masculino,Recorrente,Rorainópolis,Roraima
+C032,Levi Cunha,60,Masculino,Recorrente,Porto Alegre,Rio Grande do Sul
+C033,Sara Gonçalves,34,Feminino,Alta Frequência,Belém,Pará
+C034,Natália Casa Grande,35,Feminino,Recorrente,São Paulo,São Paulo
+C035,Davi Miguel da Cruz,31,Masculino,Recorrente,Araguaína,Tocantins
+C036,Zoe da Luz,21,Feminino,Recorrente,Itabaiana,Sergipe
+C037,Mariane Pacheco,20,Feminino,Alta Receita,Parnaíba,Piauí
+C038,Maria Cecília Câmara,58,Feminino,Alta Frequência,Curitiba,Paraná
+C039,Thomas Monteiro,53,Masculino,Recorrente,Campinas,São Paulo
+C040,Benicio Camargo,22,Masculino,Recorrente,Rio Branco,Acre
+C041,Mariana Peixoto,55,Feminino,Alta Receita,Santana,Amapá
+C042,Matheus Garcia,37,Masculino,Alta Frequência,Porto Velho,Rondônia
+C043,Nina Moura,61,Feminino,Recorrente,João Pessoa,Paraíba
+C044,Yuri Albuquerque,67,Masculino,Recorrente,Santarém,Pará
+C045,Bruna Rodrigues,33,Feminino,Alta Frequência,São Paulo,São Paulo
+C046,Juliana Vargas,29,Feminino,Alta Receita,Teresina,Piauí
+C047,Manuela Camargo,35,Feminino,Recorrente,Porto Alegre,Rio Grande do Sul
+C048,Pedro Henrique Castro,20,Masculino,Alta Frequência,Santarém,Pará
+C049,Agatha Silveira,40,Feminino,Alta Frequência,Araguaína,Tocantins
+C050,Sarah Teixeira,60,Feminino,Alta Receita,Maceió,Alagoas
+C051,Thiago Caldeira,22,Masculino,Alta Receita,Imperatriz,Maranhão
+C052,Letícia Porto,61,Feminino,Alta Frequência,Vila Velha,Espírito Santo
+C053,Fernanda Cassiano,29,Feminino,Alta Frequência,Santarém,Pará
+C054,Vitor Hugo Vasconcelos,40,Masculino,Alta Receita,Santarém,Pará
+C055,Agatha Peixoto,42,Feminino,Alta Receita,Campo Grande,Mato Grosso do Sul
+C056,Antony Camargo,18,Masculino,Alta Receita,Santana,Amapá
+C057,Isaque Araújo,60,Masculino,Recorrente,Teresina,Piauí
+C058,Bruno Barros,64,Masculino,Recorrente,São Luís,Maranhão
+C059,Ana Lívia Teixeira,38,Feminino,Recorrente,Sobral,Ceará
+C060,Carolina Cardoso,30,Feminino,Recorrente,Fortaleza,Ceará
+C061,Olívia Novaes,57,Feminino,Alta Receita,Recife,Pernambuco
+C062,João Moura,37,Masculino,Alta Frequência,Goiânia,Goiás
+C063,Mariana Cunha,47,Feminino,Alta Receita,Parnaíba,Piauí
+C064,Gabriela Silva,50,Feminino,Recorrente,Belo Horizonte,Minas Gerais
+C065,Murilo Rios,36,Masculino,Alta Frequência,Boa Vista,Roraima
+C066,Maria Fernanda Macedo,61,Feminino,Alta Frequência,Florianópolis,Santa Catarina
+C067,Milena Campos,27,Feminino,Alta Frequência,Porto Alegre,Rio Grande do Sul
+C068,Henry Gabriel Azevedo,57,Masculino,Alta Receita,Arapiraca,Alagoas
+C069,Yuri da Conceição,63,Masculino,Alta Receita,Teresina,Piauí
+C070,Hellena Abreu,27,Feminino,Alta Frequência,Recife,Pernambuco
+C071,Bento da Conceição,32,Masculino,Recorrente,Londrina,Paraná
+C072,Arthur Gabriel Farias,21,Masculino,Alta Frequência,Brasília,Distrito Federal
+C073,Théo da Costa,69,Masculino,Recorrente,Natal,Rio Grande do Norte
+C074,Ryan Cunha,66,Masculino,Recorrente,Brasília,Distrito Federal
+C075,Caroline Silveira,53,Feminino,Alta Frequência,Joinville,Santa Catarina
+C076,Olívia da Cruz,46,Feminino,Alta Frequência,Campinas,São Paulo
+C077,Maria Luísa Correia,67,Feminino,Recorrente,Joinville,Santa Catarina
+C078,Calebe Ribeiro,46,Masculino,Recorrente,Arapiraca,Alagoas
+C079,Maria Lima,35,Feminino,Alta Receita,Fortaleza,Ceará
+C080,Nina Siqueira,26,Feminino,Alta Frequência,Goiânia,Goiás
+C081,Carlos Eduardo Araújo,63,Masculino,Alta Frequência,Recife,Pernambuco
+C082,Maitê Caldeira,39,Feminino,Alta Receita,Parnaíba,Piauí
+C083,Gael Correia,44,Masculino,Recorrente,Macapá,Amapá
+C084,Melissa Carvalho,66,Feminino,Alta Receita,Rio de Janeiro,Rio de Janeiro
+C085,Emilly da Mota,37,Feminino,Alta Receita,Cruzeiro do Sul,Acre
+C086,Isadora Barbosa,49,Feminino,Alta Receita,Goiânia,Goiás
+C087,Beatriz Aragão,19,Feminino,Alta Receita,Parnaíba,Piauí
+C088,Ágatha Albuquerque,64,Feminino,Alta Receita,Uberlândia,Minas Gerais
+C089,Isaac Cavalcante,43,Masculino,Alta Frequência,Porto Velho,Rondônia
+C090,Raquel Mendes,26,Feminino,Alta Frequência,Vila Velha,Espírito Santo
+C091,Murilo Araújo,42,Masculino,Alta Frequência,Santana,Amapá
+C092,Mateus Abreu,39,Masculino,Alta Receita,Mossoró,Rio Grande do Norte
+C093,Julia Viana,34,Feminino,Alta Receita,Londrina,Paraná
+C094,Laura Lima,40,Feminino,Recorrente,Rio Branco,Acre
+C095,Raquel Cassiano,66,Feminino,Alta Frequência,Manaus,Amazonas
+C096,Juan Cunha,57,Masculino,Alta Frequência,Palmas,Tocantins
+C097,Vitor Hugo Araújo,60,Masculino,Recorrente,Ji-Paraná,Rondônia
+C098,Ana Laura Aragão,62,Feminino,Alta Receita,Araguaína,Tocantins
+C099,Pietra Montenegro,67,Feminino,Alta Receita,Boa Vista,Roraima
+C100,Eduarda Araújo,37,Feminino,Alta Receita,Belém,Pará
+C101,Anna Liz Cirino,22,Feminino,Alta Frequência,Rio de Janeiro,Rio de Janeiro
+C102,Bernardo Rocha,61,Masculino,Recorrente,Niterói,Rio de Janeiro
+C103,Nathan Campos,40,Masculino,Recorrente,Porto Alegre,Rio Grande do Sul
+C104,Isadora Pacheco,50,Feminino,Alta Frequência,João Pessoa,Paraíba
+C105,Ana Cecília Pinto,24,Feminino,Alta Receita,Parnaíba,Piauí
+C106,Otto Ribeiro,63,Masculino,Alta Receita,Vila Velha,Espírito Santo
+C107,Stephany Dias,57,Feminino,Alta Receita,Rorainópolis,Roraima
+C108,Gustavo Rios,38,Masculino,Alta Frequência,Parnaíba,Piauí
+C109,Isabella da Luz,33,Feminino,Recorrente,Feira de Santana,Bahia
+C110,Caroline Rios,39,Feminino,Alta Receita,Dourados,Mato Grosso do Sul
+C111,Letícia Marques,49,Feminino,Alta Receita,São Luís,Maranhão
+C112,Anthony Marques,39,Masculino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C113,Beatriz Barbosa,53,Feminino,Recorrente,Niterói,Rio de Janeiro
+C114,Hadassa Montenegro,33,Feminino,Alta Receita,Palmas,Tocantins
+C115,Davi Lucca Ferreira,62,Masculino,Recorrente,Goiânia,Goiás
+C116,Joaquim Freitas,46,Masculino,Alta Frequência,Niterói,Rio de Janeiro
+C117,Emanuel Macedo,43,Masculino,Alta Receita,Fortaleza,Ceará
+C118,Liz Pimenta,48,Feminino,Alta Receita,Uberlândia,Minas Gerais
+C119,Vitória Albuquerque,40,Feminino,Alta Receita,Campinas,São Paulo
+C120,Letícia Ribeiro,32,Feminino,Recorrente,Sobral,Ceará
+C121,Davi Luiz da Luz,25,Masculino,Alta Frequência,Araguaína,Tocantins
+C122,Cauê Souza,35,Masculino,Alta Frequência,Araguaína,Tocantins
+C123,Daniela da Mata,36,Feminino,Alta Receita,Florianópolis,Santa Catarina
+C124,Gustavo Henrique Silva,18,Masculino,Alta Receita,Rorainópolis,Roraima
+C125,João Montenegro,53,Masculino,Recorrente,Macapá,Amapá
+C126,Isis Aragão,24,Feminino,Recorrente,Ji-Paraná,Rondônia
+C127,Otávio da Mota,48,Masculino,Alta Receita,Sobral,Ceará
+C128,Alexandre Farias,34,Masculino,Alta Frequência,Boa Vista,Roraima
+C129,João Castro,43,Masculino,Alta Frequência,Florianópolis,Santa Catarina
+C130,Mariane Novais,27,Feminino,Recorrente,Cuiabá,Mato Grosso
+C131,Daniel Barbosa,33,Masculino,Recorrente,Fortaleza,Ceará
+C132,Ísis Andrade,56,Feminino,Recorrente,Londrina,Paraná
+C133,Pedro Cardoso,46,Masculino,Recorrente,Caruaru,Pernambuco
+C134,Leandro Fonseca,54,Masculino,Recorrente,Parnaíba,Piauí
+C135,Luiz Henrique Costela,66,Masculino,Recorrente,São Paulo,São Paulo
+C136,Isadora Rios,60,Feminino,Alta Frequência,Araguaína,Tocantins
+C137,Luiz Gustavo Vasconcelos,53,Masculino,Alta Frequência,Maceió,Alagoas
+C138,Maria Luísa Pinto,46,Feminino,Alta Receita,Cruzeiro do Sul,Acre
+C139,Isabela Castro,36,Feminino,Recorrente,Macapá,Amapá
+C140,Noah Alves,61,Masculino,Alta Receita,Natal,Rio Grande do Norte
+C141,Lucas Gabriel Viana,45,Masculino,Recorrente,Porto Alegre,Rio Grande do Sul
+C142,Isadora da Mata,35,Feminino,Alta Frequência,Maceió,Alagoas
+C143,Cauê Garcia,68,Masculino,Recorrente,Macapá,Amapá
+C144,Ravy Câmara,46,Masculino,Alta Receita,Campinas,São Paulo
+C145,Raul Ferreira,62,Masculino,Alta Receita,Niterói,Rio de Janeiro
+C146,Ian Câmara,46,Masculino,Recorrente,Brasília,Distrito Federal
+C147,Gael Guerra,65,Masculino,Recorrente,Santana,Amapá
+C148,Bernardo Vargas,23,Masculino,Recorrente,Salvador,Bahia
+C149,Luiz Fernando Ramos,66,Masculino,Recorrente,Florianópolis,Santa Catarina
+C150,Maria Liz Rocha,48,Feminino,Alta Receita,Macapá,Amapá
+C151,Luísa Alves,58,Feminino,Alta Frequência,Rorainópolis,Roraima
+C152,José Pedro Cavalcanti,44,Masculino,Alta Receita,Itabaiana,Sergipe
+C153,Julia Andrade,28,Feminino,Alta Receita,Belo Horizonte,Minas Gerais
+C154,Pedro Henrique Ferreira,36,Masculino,Recorrente,Niterói,Rio de Janeiro
+C155,Maya Pereira,23,Feminino,Alta Receita,Santana,Amapá
+C156,Bruna Gomes,67,Feminino,Recorrente,São Luís,Maranhão
+C157,Esther da Cunha,60,Feminino,Alta Receita,Florianópolis,Santa Catarina
+C158,Pedro Henrique Abreu,51,Masculino,Recorrente,Macapá,Amapá
+C159,Zoe Rodrigues,58,Feminino,Alta Frequência,Londrina,Paraná
+C160,Fernanda Fonseca,53,Feminino,Alta Receita,Araguaína,Tocantins
+C161,Ana Lívia Rios,25,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C162,Davi Silveira,63,Masculino,Alta Receita,Campo Grande,Mato Grosso do Sul
+C163,Thiago das Neves,53,Masculino,Alta Frequência,Goiânia,Goiás
+C164,Maria Luísa Duarte,47,Feminino,Recorrente,Maceió,Alagoas
+C165,Laís Novaes,49,Feminino,Recorrente,Florianópolis,Santa Catarina
+C166,Gael Leão,44,Masculino,Alta Receita,Niterói,Rio de Janeiro
+C167,Maria Helena Rocha,53,Feminino,Alta Receita,Arapiraca,Alagoas
+C168,Liz Guerra,22,Feminino,Alta Receita,Palmas,Tocantins
+C169,Agatha da Rosa,70,Feminino,Alta Receita,Imperatriz,Maranhão
+C170,Gustavo Henrique Lopes,55,Masculino,Alta Frequência,Campinas,São Paulo
+C171,Luna Martins,40,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C172,Melina Rocha,47,Feminino,Alta Frequência,Londrina,Paraná
+C173,Thomas Melo,54,Masculino,Alta Frequência,Rio de Janeiro,Rio de Janeiro
+C174,Antonella da Paz,20,Feminino,Recorrente,Londrina,Paraná
+C175,Lívia Borges,42,Feminino,Alta Receita,Itabaiana,Sergipe
+C176,Leonardo Câmara,50,Masculino,Alta Frequência,Macapá,Amapá
+C177,Diogo Alves,51,Masculino,Alta Frequência,Natal,Rio Grande do Norte
+C178,Joaquim Melo,44,Masculino,Alta Frequência,São Paulo,São Paulo
+C179,Ana Sophia Marques,39,Feminino,Recorrente,Itabaiana,Sergipe
+C180,Evelyn Silva,61,Feminino,Alta Receita,Parintins,Amazonas
+C181,Sabrina Guerra,52,Feminino,Recorrente,Vila Velha,Espírito Santo
+C182,Diogo Rezende,58,Masculino,Alta Frequência,Manaus,Amazonas
+C183,Bianca Vasconcelos,45,Feminino,Recorrente,São Paulo,São Paulo
+C184,Hellena Cavalcanti,46,Feminino,Recorrente,Rio de Janeiro,Rio de Janeiro
+C185,Nicole Aragão,20,Feminino,Alta Frequência,Fortaleza,Ceará
+C186,Isadora Campos,41,Feminino,Alta Frequência,Sobral,Ceará
+C187,Catarina Martins,54,Feminino,Alta Frequência,Arapiraca,Alagoas
+C188,Vitória Novais,57,Feminino,Recorrente,Boa Vista,Roraima
+C189,Luiza Sá,49,Feminino,Alta Frequência,Belo Horizonte,Minas Gerais
+C190,Sofia Lima,47,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C191,Melissa Castro,36,Feminino,Alta Frequência,Cruzeiro do Sul,Acre
+C192,Milena da Luz,55,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C193,João Guilherme Vargas,47,Masculino,Alta Frequência,Parnaíba,Piauí
+C194,Raquel Pires,24,Feminino,Alta Receita,Caruaru,Pernambuco
+C195,João Guilherme Macedo,54,Masculino,Recorrente,Rondonópolis,Mato Grosso
+C196,João Pedro da Costa,60,Masculino,Alta Receita,Fortaleza,Ceará
+C197,Lucas Gabriel Dias,56,Masculino,Alta Receita,Rio Branco,Acre
+C198,Anna Liz Carvalho,56,Feminino,Alta Frequência,Curitiba,Paraná
+C199,Igor Gomes,57,Masculino,Recorrente,Vitória,Espírito Santo
+C200,Hadassa Azevedo,58,Feminino,Recorrente,Curitiba,Paraná
+C201,Maria Luísa Farias,37,Feminino,Alta Frequência,Vitória,Espírito Santo
+C202,Nina Leão,64,Feminino,Alta Frequência,Rondonópolis,Mato Grosso
+C203,Gustavo Leão,65,Masculino,Alta Frequência,Sobral,Ceará
+C204,Alícia Teixeira,68,Feminino,Recorrente,Palmas,Tocantins
+C205,Maria Helena Mendes,28,Feminino,Alta Receita,Brasília,Distrito Federal
+C206,Luiz Gustavo da Rosa,65,Masculino,Alta Frequência,Caxias do Sul,Rio Grande do Sul
+C207,Mariah Nascimento,27,Feminino,Recorrente,Natal,Rio Grande do Norte
+C208,Ísis Pereira,69,Feminino,Alta Frequência,Campinas,São Paulo
+C209,Ryan Câmara,18,Masculino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C210,Pedro Henrique Mendonça,41,Masculino,Recorrente,Santarém,Pará
+C211,Mathias Fernandes,24,Masculino,Alta Receita,Caruaru,Pernambuco
+C212,Maria Luiza Silveira,57,Feminino,Recorrente,Cruzeiro do Sul,Acre
+C213,Ravi Lucca Cardoso,62,Masculino,Recorrente,Parintins,Amazonas
+C214,Yasmin Alves,26,Feminino,Alta Frequência,Teresina,Piauí
+C215,Amanda Barros,25,Feminino,Alta Frequência,Sobral,Ceará
+C216,Mariane Carvalho,42,Feminino,Alta Receita,Goiânia,Goiás
+C217,Emilly Aragão,55,Feminino,Alta Receita,Uberlândia,Minas Gerais
+C218,Mateus Duarte,49,Masculino,Alta Receita,Vitória,Espírito Santo
+C219,Rafael Duarte,31,Masculino,Alta Receita,Santana,Amapá
+C220,João Lucas Sá,24,Masculino,Recorrente,Arapiraca,Alagoas
+C221,Isis Barros,21,Feminino,Alta Receita,Vila Velha,Espírito Santo
+C222,Allana Souza,70,Feminino,Alta Frequência,Palmas,Tocantins
+C223,Ana Júlia Ferreira,59,Feminino,Alta Frequência,Belo Horizonte,Minas Gerais
+C224,Bernardo Vasconcelos,33,Masculino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C225,Ana Cecília Sá,66,Feminino,Recorrente,Palmas,Tocantins
+C226,Josué Costa,39,Masculino,Recorrente,Palmas,Tocantins
+C227,Eduardo da Costa,27,Masculino,Recorrente,Cruzeiro do Sul,Acre
+C228,Renan Rios,25,Masculino,Alta Frequência,Salvador,Bahia
+C229,Henrique Martins,68,Masculino,Recorrente,Cruzeiro do Sul,Acre
+C230,Maria Eduarda Cavalcante,29,Feminino,Alta Frequência,São Luís,Maranhão
+C231,Bruna Vasconcelos,51,Feminino,Recorrente,Ji-Paraná,Rondônia
+C232,Leonardo Caldeira,46,Masculino,Recorrente,Parintins,Amazonas
+C233,Amanda das Neves,46,Feminino,Recorrente,Cuiabá,Mato Grosso
+C234,Maria Flor Gonçalves,47,Feminino,Alta Frequência,Santana,Amapá
+C235,Ana Vitória Pastor,45,Feminino,Alta Receita,Itabaiana,Sergipe
+C236,Isabelly Caldeira,22,Feminino,Alta Receita,Niterói,Rio de Janeiro
+C237,Bárbara Vieira,22,Feminino,Alta Receita,Campo Grande,Mato Grosso do Sul
+C238,Ana Cecília Ferreira,42,Feminino,Alta Receita,Dourados,Mato Grosso do Sul
+C239,Mariane Ribeiro,24,Feminino,Recorrente,Brasília,Distrito Federal
+C240,Thiago Ramos,45,Masculino,Alta Frequência,Vitória,Espírito Santo
+C241,Otto Mendonça,70,Masculino,Alta Receita,Parnaíba,Piauí
+C242,Pedro Fonseca,38,Masculino,Alta Receita,Teresina,Piauí
+C243,Natália Santos,41,Feminino,Recorrente, Uberlândia,Minas Gerais
+C244,Pedro Henrique Cavalcanti,23,Masculino,Alta Frequência,Aracaju,Sergipe
+C245,Júlia Pimenta,65,Feminino,Alta Frequência,Teresina,Piauí
+C246,Rafaela Martins,55,Feminino,Recorrente,Goiânia,Goiás
+C247,Juliana Duarte,40,Feminino,Recorrente,Santarém,Pará
+C248,Caio da Mota,56,Masculino,Alta Receita,Santana,Amapá
+C249,Isabelly Sá,27,Feminino,Alta Frequência,Belém,Pará
+C250,Maria Helena Fernandes,53,Feminino,Alta Frequência,Santarém,Pará
+C251,Thales Duarte,54,Masculino,Alta Receita,Londrina,Paraná
+C252,Ryan Cunha,56,Masculino,Alta Frequência,Goiânia,Goiás
+C253,Luigi da Mota,62,Masculino,Alta Receita,Rorainópolis,Roraima
+C254,Kamilly Novais,29,Feminino,Recorrente,João Pessoa,Paraíba
+C255,Valentim Correia,22,Masculino,Recorrente, Uberlândia,Minas Gerais
+C256,Isaque Silveira,23,Masculino,Alta Receita,Vitória,Espírito Santo
+C257,Rebeca Novais,39,Feminino,Alta Receita,Parnaíba,Piauí
+C258,Renan Ramos,67,Masculino,Alta Frequência,Sobral,Ceará
+C259,Melissa Vieira,66,Feminino,Recorrente,Porto Velho,Rondônia
+C260,Caleb da Rocha,46,Masculino,Alta Receita,Parintins,Amazonas
+C261,Nathan Sales,44,Masculino,Alta Frequência,Dourados,Mato Grosso do Sul
+C262,Leandro Ribeiro,40,Masculino,Alta Frequência,Curitiba,Paraná
+C263,Maria Eduarda Melo,51,Feminino,Alta Frequência,Sobral,Ceará
+C264,Vitória Ferreira,56,Feminino,Alta Frequência,Arapiraca,Alagoas
+C265,Luísa Fogaça,31,Feminino,Alta Receita,Araguaína,Tocantins
+C266,Júlia das Neves,25,Feminino,Alta Receita,Sobral,Ceará
+C267,Igor Campos,29,Masculino,Alta Receita,Campinas,São Paulo
+C268,Luara Campos,50,Feminino,Alta Frequência,Goiânia,Goiás
+C269,Ester Correia,45,Feminino,Alta Receita,Recife,Pernambuco
+C270,Rodrigo da Mota,54,Masculino,Recorrente,Parintins,Amazonas
+C271,Valentina Peixoto,36,Feminino,Alta Receita,Caruaru,Pernambuco
+C272,Carlos Eduardo Correia,28,Masculino,Recorrente,Cruzeiro do Sul,Acre
+C273,Ian Fonseca,45,Masculino,Alta Frequência,João Pessoa,Paraíba
+C274,Kevin Albuquerque,51,Masculino,Alta Receita,Parnaíba,Piauí
+C275,Carolina da Mota,32,Feminino,Alta Frequência,Sobral,Ceará
+C276,Benjamim Novaes,51,Masculino,Alta Receita,Manaus,Amazonas
+C277,Davi Lucas Porto,33,Masculino,Alta Frequência,João Pessoa,Paraíba
+C278,Bella Albuquerque,29,Feminino,Recorrente,Salvador,Bahia
+C279,Larissa Melo,67,Feminino,Alta Receita,Manaus,Amazonas
+C280,Maysa Fernandes,61,Feminino,Recorrente,Londrina,Paraná
+C281,Benjamim da Cunha,46,Masculino,Alta Receita,São Luís,Maranhão
+C282,Bruna Azevedo,68,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C283,Rebeca Barbosa,50,Feminino,Alta Receita,Santana,Amapá
+C284,Ana Júlia Cassiano,20,Feminino,Alta Receita,Mossoró,Rio Grande do Norte
+C285,Kevin Barros,22,Masculino,Recorrente,Joinville,Santa Catarina
+C286,Dante Novais,47,Masculino,Alta Receita,Dourados,Mato Grosso do Sul
+C287,Heloisa Vasconcelos,38,Feminino,Recorrente,Porto Alegre,Rio Grande do Sul
+C288,Maria Helena Machado,46,Feminino,Alta Receita,Porto Velho,Rondônia
+C289,Letícia Pastor,50,Feminino,Alta Frequência,Rio de Janeiro,Rio de Janeiro
+C290,Lorena Nunes,46,Feminino,Alta Receita,Arapiraca,Alagoas
+C291,Ana Liz Pimenta,42,Feminino,Alta Receita,Campina Grande,Paraíba
+C292,Giovanna Pires,68,Feminino,Alta Frequência,Belo Horizonte,Minas Gerais
+C293,João Ribeiro,53,Masculino,Alta Receita,São Luís,Maranhão
+C294,Emanuel da Costa,39,Masculino,Recorrente,Salvador,Bahia
+C295,Yuri Barbosa,40,Masculino,Recorrente,Belo Horizonte,Minas Gerais
+C296,Alexandre Jesus,26,Masculino,Alta Receita,Niterói,Rio de Janeiro
+C297,Olivia da Rocha,59,Feminino,Alta Frequência,Anápolis,Goiás
+C298,Igor da Paz,59,Masculino,Recorrente,Belo Horizonte,Minas Gerais
+C299,Mirella Barbosa,41,Feminino,Alta Frequência,João Pessoa,Paraíba
+C300,Isabel da Luz,67,Feminino,Alta Frequência,Araguaína,Tocantins
+C301,Fernanda Lima,27,Feminino,Alta Receita,Maceió,Alagoas
+C302,Yago Câmara,50,Masculino,Recorrente,Porto Alegre,Rio Grande do Sul
+C303,Clarice da Mata,56,Feminino,Alta Frequência,São Luís,Maranhão
+C304,Brayan Araújo,62,Masculino,Recorrente,Boa Vista,Roraima
+C305,Leandro Peixoto,44,Masculino,Recorrente,Natal,Rio Grande do Norte
+C306,Laura Macedo,46,Feminino,Recorrente,São Paulo,São Paulo
+C307,Ravi Lucca Sales,32,Masculino,Alta Receita,Caxias do Sul,Rio Grande do Sul
+C308,Nathan da Mata,30,Masculino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C309,Ágatha Monteiro,47,Feminino,Alta Receita,Rondonópolis,Mato Grosso
+C310,Anna Liz Peixoto,28,Feminino,Recorrente,Brasília,Distrito Federal
+C311,Pedro Sousa,21,Masculino,Alta Receita,Ji-Paraná,Rondônia
+C312,Apollo Borges,63,Masculino,Alta Receita,Goiânia,Goiás
+C313,Antônio Teixeira,35,Masculino,Recorrente,Manaus,Amazonas
+C314,Juliana Oliveira,23,Feminino,Alta Receita,Ji-Paraná,Rondônia
+C315,Erick Melo,44,Masculino,Alta Receita,João Pessoa,Paraíba
+C316,Melina da Mota,33,Feminino,Alta Frequência,Brasília,Distrito Federal
+C317,Pedro Henrique Porto,19,Masculino,Alta Frequência,João Pessoa,Paraíba
+C318,Ayla Melo,68,Feminino,Alta Frequência,Joinville,Santa Catarina
+C319,Lucas Gabriel Duarte,48,Masculino,Recorrente,Santana,Amapá
+C320,Bella Castro,57,Feminino,Alta Frequência,Itabaiana,Sergipe
+C321,Thales da Paz,31,Masculino,Recorrente,Cruzeiro do Sul,Acre
+C322,Maria Liz Teixeira,25,Feminino,Alta Frequência,Campinas,São Paulo
+C323,Ana Carolina Marques,21,Feminino,Alta Receita,Fortaleza,Ceará
+C324,Levi da Cunha,22,Masculino,Alta Receita,Vila Velha,Espírito Santo
+C325,Nathan Moraes,58,Masculino,Recorrente,Campo Grande,Mato Grosso do Sul
+C326,Vitor Hugo Martins,45,Masculino,Recorrente,Ji-Paraná,Rondônia
+C327,Ana Júlia Correia,54,Feminino,Alta Frequência,João Pessoa,Paraíba
+C328,Maria Cecília Pinto,51,Feminino,Alta Frequência,Belo Horizonte,Minas Gerais
+C329,Melina Teixeira,42,Feminino,Alta Frequência,Brasília,Distrito Federal
+C330,Gustavo da Mata,41,Masculino,Recorrente,Vila Velha,Espírito Santo
+C331,Caroline da Paz,68,Feminino,Alta Receita,Cruzeiro do Sul,Acre
+C332,Raquel Campos,67,Feminino,Alta Frequência,Maceió,Alagoas
+C333,Isaque Santos,52,Masculino,Recorrente,Santana,Amapá
+C334,Leonardo Novaes,62,Masculino,Recorrente,Rorainópolis,Roraima
+C335,Yuri Jesus,22,Masculino,Alta Frequência,Boa Vista,Roraima
+C336,Henry Gabriel Camargo,20,Masculino,Alta Frequência,Fortaleza,Ceará
+C337,Bárbara Ramos,50,Feminino,Recorrente,Imperatriz,Maranhão
+C338,Theo Silva,20,Masculino,Alta Receita,Itabaiana,Sergipe
+C339,Thomas Santos,59,Masculino,Alta Receita,João Pessoa,Paraíba
+C340,Oliver Mendes,45,Masculino,Recorrente,Santarém,Pará
+C341,Isabelly Marques,39,Feminino,Alta Receita,Mossoró,Rio Grande do Norte
+C342,Clara Gomes,41,Feminino,Alta Frequência,Niterói,Rio de Janeiro
+C343,Thomas Souza,23,Masculino,Recorrente,Campinas,São Paulo
+C344,Bernardo da Mota,52,Masculino,Alta Receita,Florianópolis,Santa Catarina
+C345,Manuela Viana,38,Feminino,Alta Receita,Belém,Pará
+C346,Juliana Abreu,28,Feminino,Alta Receita,Mossoró,Rio Grande do Norte
+C347,Kaique Pastor,64,Masculino,Recorrente,Natal,Rio Grande do Norte
+C348,Rebeca Cassiano,58,Feminino,Alta Frequência,Parnaíba,Piauí
+C349,Zoe Mendes,41,Feminino,Alta Frequência, Uberlândia,Minas Gerais
+C350,Yuri Teixeira,20,Masculino,Alta Frequência,Ji-Paraná,Rondônia
+C351,Maria Flor Marques,41,Feminino,Recorrente,Arapiraca,Alagoas
+C352,Isaque Oliveira,61,Masculino,Alta Receita,Macapá,Amapá
+C353,Isabel Vasconcelos,66,Feminino,Recorrente,Campina Grande,Paraíba
+C354,Ana Clara Dias,43,Feminino,Recorrente,Ji-Paraná,Rondônia
+C355,Maria Helena Gomes,25,Feminino,Recorrente,Salvador,Bahia
+C356,Clarice Monteiro,51,Feminino,Recorrente,Rorainópolis,Roraima
+C357,Davi Lucas Montenegro,67,Masculino,Recorrente,Santarém,Pará
+C358,Luísa Brito,57,Feminino,Recorrente,Natal,Rio Grande do Norte
+C359,Beatriz Moura,25,Feminino,Alta Frequência,Aracaju,Sergipe
+C360,Alice Silveira,63,Feminino,Alta Frequência,Natal,Rio Grande do Norte
+C361,Nicolas Rezende,60,Masculino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C362,Breno Melo,37,Masculino,Recorrente,Parintins,Amazonas
+C363,Lucca Pinto,68,Masculino,Recorrente,Rio de Janeiro,Rio de Janeiro
+C364,Anna Liz Farias,30,Feminino,Alta Frequência,Maceió,Alagoas
+C365,Yasmin Garcia,19,Feminino,Recorrente,Caxias do Sul,Rio Grande do Sul
+C366,Vitor Hugo Andrade,47,Masculino,Recorrente,Rondonópolis,Mato Grosso
+C367,Ana Lívia da Costa,37,Feminino,Recorrente,Manaus,Amazonas
+C368,Laura da Conceição,51,Feminino,Alta Receita,Campinas,São Paulo
+C369,Maya Brito,26,Feminino,Recorrente,Florianópolis,Santa Catarina
+C370,Beatriz Macedo,47,Feminino,Alta Frequência,Parintins,Amazonas
+C371,Kaique Alves,67,Masculino,Alta Receita,Florianópolis,Santa Catarina
+C372,Luan Vieira,25,Masculino,Alta Receita,Brasília,Distrito Federal
+C373,Juan Fogaça,38,Masculino,Alta Receita,Boa Vista,Roraima
+C374,Diogo da Cruz,23,Masculino,Alta Frequência,Brasília,Distrito Federal
+C375,Maria Sophia Nunes,26,Feminino,Recorrente,Vila Velha,Espírito Santo
+C376,Emilly Cavalcante,50,Feminino,Recorrente,Goiânia,Goiás
+C377,Bruno Pimenta,28,Masculino,Recorrente,Cuiabá,Mato Grosso
+C378,Isabella Monteiro,23,Feminino,Recorrente,Macapá,Amapá
+C379,Cecília da Conceição,59,Feminino,Recorrente,Londrina,Paraná
+C380,Jade Marques,49,Feminino,Recorrente,Teresina,Piauí
+C381,Anthony Martins,33,Masculino,Alta Receita,Sobral,Ceará
+C382,Yago Castro,62,Masculino,Alta Frequência,Natal,Rio Grande do Norte
+C383,Pedro Miguel Ferreira,48,Masculino,Alta Frequência,Mossoró,Rio Grande do Norte
+C384,Letícia Porto,38,Feminino,Recorrente,São Luís,Maranhão
+C385,Isis Marques,26,Feminino,Recorrente,Campina Grande,Paraíba
+C386,Gael Henrique Gomes,38,Masculino,Alta Receita,Goiânia,Goiás
+C387,Bianca da Costa,46,Feminino,Alta Frequência,Santarém,Pará
+C388,Maria Alice Oliveira,36,Feminino,Recorrente,Belém,Pará
+C389,Juan Almeida,28,Masculino,Recorrente,Teresina,Piauí
+C390,Maria Laura da Mota,30,Feminino,Alta Receita,Campinas,São Paulo
+C391,Benicio Pereira,49,Masculino,Alta Receita,Brasília,Distrito Federal
+C392,Laura Vasconcelos,43,Feminino,Alta Frequência,Rio Branco,Acre
+C393,Luiz Gustavo Câmara,21,Masculino,Alta Receita,Araguaína,Tocantins
+C394,Esther Pinto,36,Feminino,Alta Frequência,Itabaiana,Sergipe
+C395,Davi Miguel Pires,34,Masculino,Alta Receita,Teresina,Piauí
+C396,Asafe das Neves,43,Masculino,Recorrente,João Pessoa,Paraíba
+C397,Ana Beatriz Pacheco,41,Feminino,Alta Frequência,Goiânia,Goiás
+C398,Caleb da Rocha,66,Masculino,Recorrente,Caruaru,Pernambuco
+C399,Erick Costa,26,Masculino,Alta Receita,Belo Horizonte,Minas Gerais
+C400,Vitor Hugo Fonseca,53,Masculino,Alta Frequência,Campina Grande,Paraíba
+C401,Sarah da Mata,50,Feminino,Alta Frequência,Araguaína,Tocantins
+C402,José Miguel Mendes,63,Masculino,Alta Receita,Macapá,Amapá
+C403,Lucca Camargo,27,Masculino,Alta Receita,Brasília,Distrito Federal
+C404,Ana Vitória Casa Grande,28,Feminino,Recorrente,Dourados,Mato Grosso do Sul
+C405,Miguel Novais,55,Masculino,Recorrente,Campinas,São Paulo
+C406,Miguel Albuquerque,63,Masculino,Alta Receita,Joinville,Santa Catarina
+C407,Vitor Gabriel Campos,41,Masculino,Recorrente,Florianópolis,Santa Catarina
+C408,Maria Eduarda Rocha,55,Feminino,Recorrente,Santarém,Pará
+C409,Julia Pacheco,56,Feminino,Alta Receita,Rio de Janeiro,Rio de Janeiro
+C410,Maria Fernanda Caldeira,64,Feminino,Recorrente,Vitória,Espírito Santo
+C411,Isabel Melo,51,Feminino,Alta Frequência,Aracaju,Sergipe
+C412,Luan Pimenta,20,Masculino,Alta Frequência,Florianópolis,Santa Catarina
+C413,Benício Porto,38,Masculino,Alta Frequência,Cruzeiro do Sul,Acre
+C414,Liz Rezende,44,Feminino,Recorrente,Teresina,Piauí
+C415,Bruna Carvalho,63,Feminino,Recorrente,São Paulo,São Paulo
+C416,Arthur Miguel da Rosa,60,Masculino,Recorrente,Araguaína,Tocantins
+C417,Bruna Brito,29,Feminino,Recorrente,Caruaru,Pernambuco
+C418,Vitor Gabriel Carvalho,61,Masculino,Recorrente,Imperatriz,Maranhão
+C419,Mirella Freitas,33,Feminino,Recorrente,Aracaju,Sergipe
+C420,Ágatha Leão,37,Feminino,Recorrente,Fortaleza,Ceará
+C421,Daniela Leão,38,Feminino,Alta Receita,Araguaína,Tocantins
+C422,Beatriz Mendonça,36,Feminino,Recorrente,Anápolis,Goiás
+C423,Maria Luísa da Mota,43,Feminino,Alta Frequência, Uberlândia,Minas Gerais
+C424,Léo Cunha,36,Masculino,Alta Receita,Fortaleza,Ceará
+C425,Melina da Costa,65,Feminino,Alta Frequência,Mossoró,Rio Grande do Norte
+C426,Léo Nogueira,53,Masculino,Alta Frequência,Araguaína,Tocantins
+C427,Maria Alice Araújo,33,Feminino,Recorrente,Belém,Pará
+C428,Kamilly Correia,58,Feminino,Alta Frequência,Brasília,Distrito Federal
+C429,Rafael Borges,39,Masculino,Alta Frequência,Santarém,Pará
+C430,Hadassa Ramos,18,Feminino,Alta Receita,Belo Horizonte,Minas Gerais
+C431,Alícia Aragão,48,Feminino,Alta Receita,Vila Velha,Espírito Santo
+C432,Davi Lucas Viana,59,Masculino,Alta Frequência,Imperatriz,Maranhão
+C433,Gabrielly Azevedo,52,Feminino,Alta Frequência,Vitória,Espírito Santo
+C434,Giovanna Pastor,20,Feminino,Alta Receita,Teresina,Piauí
+C435,Igor Farias,20,Masculino,Alta Receita,Rorainópolis,Roraima
+C436,Alexandre da Mota,39,Masculino,Alta Receita,Cuiabá,Mato Grosso
+C437,Davi Lucca Nogueira,26,Masculino,Alta Receita,Vila Velha,Espírito Santo
+C438,Erick Camargo,39,Masculino,Recorrente,Palmas,Tocantins
+C439,Amanda Cardoso,63,Feminino,Alta Frequência,Mossoró,Rio Grande do Norte
+C440,Luiz Henrique Vieira,68,Masculino,Recorrente,Campinas,São Paulo
+C441,Lorenzo Almeida,29,Masculino,Alta Receita,Belo Horizonte,Minas Gerais
+C442,João Aragão,23,Masculino,Recorrente,Brasília,Distrito Federal
+C443,Otto Moura,26,Masculino,Alta Receita,Belém,Pará
+C444,Benício Melo,34,Masculino,Alta Frequência,Maceió,Alagoas
+C445,Maria Cecília Moraes,39,Feminino,Recorrente,Mossoró,Rio Grande do Norte
+C446,Bianca Machado,34,Feminino,Recorrente,São Paulo,São Paulo
+C447,Hellena Pimenta,60,Feminino,Alta Receita,Maceió,Alagoas
+C448,Vicente da Rosa,43,Masculino,Recorrente,Fortaleza,Ceará
+C449,Ana Araújo,41,Feminino,Alta Frequência,Santarém,Pará
+C450,Maria Liz Lima,27,Feminino,Recorrente,Ji-Paraná,Rondônia
+C451,Bianca Mendonça,44,Feminino,Recorrente,Dourados,Mato Grosso do Sul
+C452,Ana Sophia Barros,66,Feminino,Recorrente,Porto Alegre,Rio Grande do Sul
+C453,Benício Cardoso,51,Masculino,Recorrente,Curitiba,Paraná
+C454,Yan Silva,22,Masculino,Alta Frequência,Niterói,Rio de Janeiro
+C455,Vinícius da Rocha,54,Masculino,Alta Frequência,Florianópolis,Santa Catarina
+C456,Sofia Pereira,25,Feminino,Recorrente,Imperatriz,Maranhão
+C457,Beatriz Vieira,23,Feminino,Alta Frequência,Rondonópolis,Mato Grosso
+C458,Helena Lopes,50,Feminino,Alta Receita,Natal,Rio Grande do Norte
+C459,Heloísa Jesus,53,Feminino,Recorrente,Cuiabá,Mato Grosso
+C460,Murilo Leão,64,Masculino,Alta Receita,Caxias do Sul,Rio Grande do Sul
+C461,Luara Lima,65,Feminino,Recorrente,Salvador,Bahia
+C462,Marcelo Cassiano,45,Masculino,Recorrente,Manaus,Amazonas
+C463,Olívia Azevedo,22,Feminino,Alta Frequência,Manaus,Amazonas
+C464,Bryan Borges,29,Masculino,Recorrente,Sobral,Ceará
+C465,Aylla Souza,41,Feminino,Alta Receita,Campinas,São Paulo
+C466,Caroline Novais,23,Feminino,Recorrente,Caruaru,Pernambuco
+C467,Lucas Rios,29,Masculino,Recorrente,João Pessoa,Paraíba
+C468,Noah Fogaça,18,Masculino,Alta Receita,Porto Velho,Rondônia
+C469,Mariana Silveira,52,Feminino,Alta Frequência,Mossoró,Rio Grande do Norte
+C470,João Pedro Peixoto,40,Masculino,Alta Receita,Arapiraca,Alagoas
+C471,Luiz Gustavo Caldeira,20,Masculino,Recorrente,Palmas,Tocantins
+C472,Sofia Cunha,33,Feminino,Alta Frequência,Curitiba,Paraná
+C473,Rodrigo Câmara,46,Masculino,Alta Frequência,Belém,Pará
+C474,Luiz Fernando Novais,43,Masculino,Alta Frequência,São Paulo,São Paulo
+C475,João Lucas Oliveira,66,Masculino,Alta Frequência,Goiânia,Goiás
+C476,Paulo Novais,32,Masculino,Recorrente,Brasília,Distrito Federal
+C477,Amanda Pereira,33,Feminino,Alta Frequência,Dourados,Mato Grosso do Sul
+C478,Juliana Alves,44,Feminino,Alta Receita,Belo Horizonte,Minas Gerais
+C479,João Gabriel Sampaio,58,Masculino,Recorrente,Macapá,Amapá
+C480,Lucca Ferreira,40,Masculino,Recorrente,Aracaju,Sergipe
+C481,Fernando Casa Grande,44,Masculino,Alta Receita,Imperatriz,Maranhão
+C482,Maria Liz Azevedo,66,Feminino,Alta Frequência,Recife,Pernambuco
+C483,Arthur Borges,63,Masculino,Alta Receita,Arapiraca,Alagoas
+C484,Helena Garcia,44,Feminino,Alta Receita,Santana,Amapá
+C485,Mirella Fernandes,31,Feminino,Recorrente,Arapiraca,Alagoas
+C486,Léo das Neves,41,Masculino,Recorrente,Parintins,Amazonas
+C487,Antonella Aragão,21,Feminino,Alta Receita,São Paulo,São Paulo
+C488,Emanuel Sá,22,Masculino,Recorrente,Belo Horizonte,Minas Gerais
+C489,Ana Julia Rocha,48,Feminino,Alta Receita,São Paulo,São Paulo
+C490,João Gabriel Macedo,31,Masculino,Recorrente,Fortaleza,Ceará
+C491,Mariana Mendonça,33,Feminino,Alta Receita,Santarém,Pará
+C492,Melina Leão,67,Feminino,Alta Receita,Arapiraca,Alagoas
+C493,Henrique Sá,37,Masculino,Alta Receita,Mossoró,Rio Grande do Norte
+C494,Bruna Ferreira,47,Feminino,Recorrente,Brasília,Distrito Federal
+C495,Brenda da Paz,31,Feminino,Alta Receita,Itabaiana,Sergipe
+C496,Raquel Moura,54,Feminino,Recorrente,Teresina,Piauí
+C497,Lorena Aparecida,34,Feminino,Alta Receita,Porto Velho,Rondônia
+C498,Miguel Peixoto,39,Masculino,Alta Receita,Porto Velho,Rondônia
+C499,André Costela,49,Masculino,Alta Receita,Cuiabá,Mato Grosso
+C500,Pedro Luiz Perreira,64,Maculino,Alta Receita,Londrina,Paraná
